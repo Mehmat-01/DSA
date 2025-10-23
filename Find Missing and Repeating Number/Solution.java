@@ -2,7 +2,7 @@ import java.util.ArrayList ;
 
 public class Solution {
 
-    public static int[] missingAndRepeating(ArrayList<Integer> arr, int n) {
+    public static int[] missingAndRepeating(ArrayList<Integer> arr, int n) { 
         
         long actual_sum=0;
         long actual_sum_of_square=0;
