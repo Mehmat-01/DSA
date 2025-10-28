@@ -1,6 +1,6 @@
 # DSA
 
-LeetCode and GFG
+## [LeetCode](https://leetcode.com/u/mdsamiahmad/)
 
 ## LeetCode Topics
 
@@ -8,7 +8,7 @@ LeetCode and GFG
 
 |   |
 |---|
-| [0001-Two Sum Array](https://github.com/Mehmat-01/DSA/tree/main/0001-Two%20Sum%20Array) |
+| [0001-Two-Sum-Array](https://github.com/Mehmat-01/DSA/tree/main/0001-Two-Sum-Array) |
 | [0004-Median-of-two-Sorted-Arrays](https://github.com/Mehmat-01/DSA/tree/main/0004-Median-of-two-Sorted-Arrays) |
 | [0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array](https://github.com/Mehmat-01/DSA/tree/main/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) |
 | [0217-Contains-Duplicate](https://github.com/Mehmat-01/DSA/tree/main/0217-Contains-Duplicate) |
