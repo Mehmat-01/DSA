@@ -10,6 +10,7 @@
 |---|
 | [0001-Two-Sum-Array](https://github.com/Mehmat-01/DSA/tree/main/0001-Two-Sum-Array) |
 | [0004-Median-of-two-Sorted-Arrays](https://github.com/Mehmat-01/DSA/tree/main/0004-Median-of-two-Sorted-Arrays) |
+| [0027-Remove-Element](https://github.com/Mehmat-01/DSA/tree/main/0027-Remove-Element)
 | [0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array](https://github.com/Mehmat-01/DSA/tree/main/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) |
 | [0217-Contains-Duplicate](https://github.com/Mehmat-01/DSA/tree/main/0217-Contains-Duplicate) |
 | [0219-Contains-Duplicate-II](https://github.com/Mehmat-01/DSA/tree/main/0219-Contains-Duplicate-II) |
