@@ -1,6 +1,6 @@
 # DSA
 
-## [LeetCode](https://leetcode.com/u/mdsamiahmad/)
+[LeetCode](https://leetcode.com/u/mdsamiahmad/)
 
 ## LeetCode Topics
 
@@ -10,12 +10,14 @@
 |---|
 | [0001-Two-Sum-Array](https://github.com/Mehmat-01/DSA/tree/main/0001-Two-Sum-Array) |
 | [0004-Median-of-two-Sorted-Arrays](https://github.com/Mehmat-01/DSA/tree/main/0004-Median-of-two-Sorted-Arrays) |
-| [0027-Remove-Element](https://github.com/Mehmat-01/DSA/tree/main/0027-Remove-Element)
+| [0027-Remove-Element](https://github.com/Mehmat-01/DSA/tree/main/0027-Remove-Element) |
 | [0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array](https://github.com/Mehmat-01/DSA/tree/main/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) |
-| [0066-Plus-One](https://github.com/Mehmat-01/DSA/tree/main/0066-Plus-One)
+| [0066-Plus-One](https://github.com/Mehmat-01/DSA/tree/main/0066-Plus-One) |
 | [0217-Contains-Duplicate](https://github.com/Mehmat-01/DSA/tree/main/0217-Contains-Duplicate) |
 | [0219-Contains-Duplicate-II](https://github.com/Mehmat-01/DSA/tree/main/0219-Contains-Duplicate-II) |
 | [1539-Kth-Missing-Positive-Number](https://github.com/Mehmat-01/DSA/tree/main/1539-Kth-Missing-Positive-Number) |
+| [1901-Find-a-Peak-Element-II](https://github.com/Mehmat-01/DSA/tree/main/1901-Find-a-Peak-Element-II) |
+| [2643-Row-With-Maximum-Ones](https://github.com/Mehmat-01/DSA/tree/main/2643-Row-With-Maximum-Ones) |
 | [Basic Program/Maximum Element in Array](https://github.com/Mehmat-01/DSA/tree/main/Basic%20Program/Maximum%20Element%20in%20Array) |
 | [Find Missing and Repeating Number](https://github.com/Mehmat-01/DSA/tree/main/Find%20Missing%20and%20Repeating%20Number) |
 | [Maximum Product Subarray](https://github.com/Mehmat-01/DSA/tree/main/Maximum%20Product%20Subarray) |
@@ -28,9 +30,11 @@
 | [0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array](https://github.com/Mehmat-01/DSA/tree/main/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) |
 | [0035-Serach-Insert-Position](https://github.com/Mehmat-01/DSA/tree/main/0035-Serach-Insert-Position) |
 | [0069-Sqrt(x)](https://github.com/Mehmat-01/DSA/tree/main/0069-Sqrt(x)) |
+| [0074-Search-a-2D-Matrix](https://github.com/Mehmat-01/DSA/tree/main/0074-Search-a-2D-Matrix) |
 | [0081-Search-in-Rotated-Sorted-Array-II](https://github.com/Mehmat-01/DSA/tree/main/0081-Search-in-Rotated-Sorted-Array-II) |
 | [0153-Find-Minimum-in-Rotated-Sorted-Array](https://github.com/Mehmat-01/DSA/tree/main/0153-Find-Minimum-in-Rotated-Sorted-Array) |
 | [0162-Find-Peak-Element](https://github.com/Mehmat-01/DSA/tree/main/0162-Find-Peak-Element) |
+| [0240-Search-a-2D-Matrix](https://github.com/Mehmat-01/DSA/tree/main/0240-Search-a-2D-Matrix) |
 | [0540-Single-Element-in-a-Sorted-Array](https://github.com/Mehmat-01/DSA/tree/main/0540-Single-Element-in-a-Sorted-Array) |
 | [0704-Binary-Search](https://github.com/Mehmat-01/DSA/tree/main/0704-Binary-Search) |
 | [0875-Koko-Eating-Bananas](https://github.com/Mehmat-01/DSA/tree/main/0875-Koko-Eating-Bananas) |
