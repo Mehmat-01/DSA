@@ -52,7 +52,9 @@
 |  |
 |---|
 | [0014-Longest-Common-Prefix](https://github.com/Mehmat-01/DSA/tree/main/0014-Longest-Common-Prefix) |
+| [0151-Reverse-Words-in-a-String](https://github.com/Mehmat-01/DSA/tree/main/0151-Reverse-Words-in-a-String)
 | [0205-Isomorphic-Strings](https://github.com/Mehmat-01/DSA/tree/main/0205-Isomorphic-Strings) |
+| [0242-Valid-Anagram](https://github.com/Mehmat-01/DSA/tree/main/0242-Valid-Anagram)
 | [0796-Rotate-String](https://github.com/Mehmat-01/DSA/tree/main/0796-Rotate-String) |
 | [1021-Remove-Outermost-Parenthesis](https://github.com/Mehmat-01/DSA/tree/main/1021-Remove-Outermost-Parenthesis) |
 | [1903-Largest-Odd-Number-in-String](https://github.com/Mehmat-01/DSA/tree/main/1903-Largest-Odd-Number-in-String) |
