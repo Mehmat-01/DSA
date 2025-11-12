@@ -14,8 +14,11 @@
 | [0027-Remove-Element](https://github.com/mdsamiahmad/DSA/tree/main/0027-Remove-Element) |
 | [0121-Best-Time-to-Buy-and-Sell-Stock](https://github.com/mdsamiahmad/DSA/tree/main/0121-Best-Time-to-Buy-and-Sell-Stock) |
 | [0122-Best-Time-to-Buy-and-Sell-Stock-II](https://github.com/mdsamiahmad/DSA/tree/main/0122-Best-Time-to-Buy-and-Sell-Stock-II) |
+| [0209-Minimum-Size-Subarray-Sum](https://github.com/mdsamiahmad/DSA/tree/main/0209-Minimum-Size-Subarray-Sum) |
 | [0217-Contains-Duplicate](https://github.com/mdsamiahmad/DSA/tree/main/0217-Contains-Duplicate) |
 | [0219-Contains-Duplicate-II](https://github.com/mdsamiahmad/DSA/tree/main/0219-Contains-Duplicate-II) |
+| [1004-Max-Consecutive-Ones-III](https://github.com/mdsamiahmad/DSA/tree/main/1004-Max-Consecutive-Ones-III) |
+| [1423-Maximum-Points-You-Can-Obtain-From-Cards](https://github.com/mdsamiahmad/DSA/tree/main/1423-Maximum-Points-You-Can-Obtain-From-Cards) |
 | [2643-Row-With-Maximum-Ones](https://github.com/mdsamiahmad/DSA/tree/main/2643-Row-With-Maximum-Ones) |
 | [Find Missing and Repeating Number](https://github.com/mdsamiahmad/DSA/tree/main/Find%20Missing%20and%20Repeating%20Number) |
 | [Maximum Product Subarray](https://github.com/mdsamiahmad/DSA/tree/main/Maximum%20Product%20Subarray) |
