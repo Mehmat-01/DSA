@@ -17,7 +17,11 @@
 | [0209-Minimum-Size-Subarray-Sum](https://github.com/mdsamiahmad/DSA/tree/main/0209-Minimum-Size-Subarray-Sum) |
 | [0217-Contains-Duplicate](https://github.com/mdsamiahmad/DSA/tree/main/0217-Contains-Duplicate) |
 | [0219-Contains-Duplicate-II](https://github.com/mdsamiahmad/DSA/tree/main/0219-Contains-Duplicate-II) |
+| [0560-Subarray-Sum-Equals-k](https://github.com/mdsamiahmad/DSA/tree/main/0560-Subarray-Sum-Equals-k) |
+| [0930-Binary-Subarrays-With-Sum](https://github.com/mdsamiahmad/DSA/tree/main/0930-Binary-Subarrays-With-Sum) |
+| [0992-Subarrays-with-K-Different-Integers](https://github.com/mdsamiahmad/DSA/tree/main/0992-Subarrays-with-K-Different-Integers) |
 | [1004-Max-Consecutive-Ones-III](https://github.com/mdsamiahmad/DSA/tree/main/1004-Max-Consecutive-Ones-III) |
+| [1248-Count-Number-of-Nice-Subarrays](https://github.com/mdsamiahmad/DSA/tree/main/1248-Count-Number-of-Nice-Subarrays) |
 | [1423-Maximum-Points-You-Can-Obtain-From-Cards](https://github.com/mdsamiahmad/DSA/tree/main/1423-Maximum-Points-You-Can-Obtain-From-Cards) |
 | [2643-Row-With-Maximum-Ones](https://github.com/mdsamiahmad/DSA/tree/main/2643-Row-With-Maximum-Ones) |
 | [Find Missing and Repeating Number](https://github.com/mdsamiahmad/DSA/tree/main/Find%20Missing%20and%20Repeating%20Number) |
@@ -59,6 +63,7 @@
 | [0151-Reverse-Words-in-a-String](https://github.com/mdsamiahmad/DSA/tree/main/0151-Reverse-Words-in-a-String) |
 | [0205-Isomorphic-Strings](https://github.com/mdsamiahmad/DSA/tree/main/0205-Isomorphic-Strings) |
 | [0242-Valid-Anagram](https://github.com/mdsamiahmad/DSA/tree/main/0242-Valid-Anagram) |
+| [0424-Longest-Repeating-Character-Replacement](https://github.com/mdsamiahmad/DSA/tree/main/0424-Longest-Repeating-Character-Replacement) |
 | [0443-String-Compression](https://github.com/mdsamiahmad/DSA/tree/main/0443-String-Compression) |
 | [0451-Sort-Character-By-Frequency](https://github.com/mdsamiahmad/DSA/tree/main/0451-Sort-Character-By-Frequency) |
 | [0796-Rotate-String](https://github.com/mdsamiahmad/DSA/tree/main/0796-Rotate-String) |
@@ -75,7 +80,10 @@
 |---|
 | [0066-Plus-One](https://github.com/mdsamiahmad/DSA/tree/main/0066-Plus-One) |
 | [0069-Sqrt(x)](https://github.com/mdsamiahmad/DSA/tree/main/0069-Sqrt(x)) |
+| [0231-Power-of-Two](https://github.com/mdsamiahmad/DSA/tree/main/0231-Power-of-Two) |
+| [0509-Fibonacci-Number](https://github.com/mdsamiahmad/DSA/tree/main/0509-Fibonacci-Number) |
 | [0875-Koko-Eating-Bananas](https://github.com/mdsamiahmad/DSA/tree/main/0875-Koko-Eating-Bananas) |
+| [1137-Nth-Tribonacci-Number](https://github.com/mdsamiahmad/DSA/tree/main/1137-Nth-Tribonacci-Number) |
 | [1283-Find-the-Smallest-Divisor-Given-a-Threshold](https://github.com/mdsamiahmad/DSA/tree/main/1283-Find-the-Smallest-Divisor-Given-a-Threshold) |
 
 ---
